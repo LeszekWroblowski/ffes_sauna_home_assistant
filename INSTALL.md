@@ -16,7 +16,7 @@
 3. Kliknij **Integracje**
 4. Kliknij trzy kropki w prawym górnym rogu
 5. Wybierz **Niestandardowe repozytoria**
-6. Wklej URL: `https://github.com/yourusername/ffes_sauna`
+6. Wklej URL: `https://github.com/LeszekWroblowski/ffes_sauna_home_assistant`
 7. Wybierz kategorię: **Integracja**
 8. Kliknij **Dodaj**
 
@@ -41,7 +41,7 @@
 
 ### Krok 1: Pobranie plików
 
-1. Pobierz najnowszą wersję z [GitHub](https://github.com/yourusername/ffes_sauna/releases)
+1. Pobierz najnowszą wersję z [GitHub](https://github.com/LeszekWroblowski/ffes_sauna_home_assistant/releases)
 2. Rozpakuj archiwum
 
 ### Krok 2: Kopiowanie plików
@@ -147,5 +147,5 @@ curl http://192.168.0.208/sauna-data
 
 Potrzebujesz pomocy?
 - 📖 Przeczytaj [README](README.md)
-- 🐛 Zgłoś problem na [GitHub Issues](https://github.com/yourusername/ffes_sauna/issues)
+- 🐛 Zgłoś problem na [GitHub Issues](https://github.com/LeszekWroblowski/ffes_sauna_home_assistant/issues)
 - 💬 Dołącz do dyskusji na [Home Assistant Community](https://community.home-assistant.io/)

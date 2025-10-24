@@ -19,7 +19,7 @@ Custom integration for FFES Sauna controllers with full control and monitoring c
 2. Click on "Integrations"
 3. Click the three dots in the top right corner
 4. Select "Custom repositories"
-5. Add this repository URL: `https://github.com/yourusername/ffes_sauna`
+5. Add this repository URL: `https://github.com/LeszekWroblowski/ffes_sauna_home_assistant`
 6. Select category: "Integration"
 7. Click "Add"
 8. Find "FFES Sauna Control" in HACS and install it
@@ -151,7 +151,7 @@ cards:
 ## Support
 
 For issues, feature requests, or questions:
-- GitHub Issues: [https://github.com/yourusername/ffes_sauna/issues](https://github.com/yourusername/ffes_sauna/issues)
+- GitHub Issues: [https://github.com/LeszekWroblowski/ffes_sauna_home_assistant/issues](https://github.com/LeszekWroblowski/ffes_sauna_home_assistant/issues)
 
 ## License
 

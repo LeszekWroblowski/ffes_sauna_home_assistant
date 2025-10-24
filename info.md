@@ -40,4 +40,4 @@ Control your FFES Sauna directly from Home Assistant!
 
 ## Support
 
-Having issues? Check the [README](https://github.com/yourusername/ffes_sauna/blob/main/README.md) or open an [issue](https://github.com/yourusername/ffes_sauna/issues).
+Having issues? Check the [README](https://github.com/LeszekWroblowski/ffes_sauna_home_assistant/blob/main/README.md) or open an [issue](https://github.com/LeszekWroblowski/ffes_sauna_home_assistant/issues).

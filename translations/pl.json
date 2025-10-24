@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Konfiguracja Sauny FFES",
+        "description": "Wprowadź adres IP lub nazwę hosta sterownika sauny FFES",
+        "data": {
+          "host": "Host (adres IP lub nazwa)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Nie udało się połączyć ze sterownikiem sauny. Sprawdź adres IP i upewnij się, że sterownik jest dostępny w sieci.",
+      "invalid_data": "Sterownik zwrócił nieprawidłowe dane. Sprawdź czy to jest sterownik sauny FFES.",
+      "unknown": "Wystąpił nieoczekiwany błąd"
+    },
+    "abort": {
+      "already_configured": "Ten sterownik sauny jest już skonfigurowany"
+    }
+  }
+}

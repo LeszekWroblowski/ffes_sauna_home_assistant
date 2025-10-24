@@ -1,0 +1,7 @@
+{
+  "name": "FFES Sauna Control",
+  "render_readme": true,
+  "domains": ["sensor", "switch", "button", "select", "number"],
+  "iot_class": "Local Polling",
+  "homeassistant": "2023.1.0"
+}

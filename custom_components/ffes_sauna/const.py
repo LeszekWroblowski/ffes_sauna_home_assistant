@@ -6,7 +6,7 @@ DOMAIN = "ffes_sauna"
 CONF_HOST = "host"
 
 # Default values
-DEFAULT_SCAN_INTERVAL = 10
+DEFAULT_SCAN_INTERVAL = 30
 
 # API endpoints
 ENDPOINT_DATA = "/sauna-data"

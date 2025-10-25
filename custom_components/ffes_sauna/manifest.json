@@ -1,0 +1,12 @@
+{
+  "domain": "ffes_sauna",
+  "name": "FFES Sauna Control",
+  "version": "1.0.0",
+  "documentation": "https://github.com/LeszekWroblowski/ffes_sauna_home_assistant",
+  "issue_tracker": "https://github.com/LeszekWroblowski/ffes_sauna_home_assistant/issues",
+  "codeowners": ["@LeszekWroblowski"],
+  "config_flow": true,
+  "dependencies": [],
+  "requirements": [],
+  "iot_class": "local_polling"
+}

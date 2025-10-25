@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "FFES Sauna Setup",
+        "description": "Enter the IP address or hostname of your FFES Sauna controller",
+        "data": {
+          "host": "Host (IP or hostname)"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Failed to connect to the sauna controller. Please check the IP address and ensure the controller is accessible on your network.",
+      "invalid_data": "The controller returned invalid data. Please check if it's a FFES Sauna controller.",
+      "unknown": "Unexpected error occurred"
+    },
+    "abort": {
+      "already_configured": "This sauna controller is already configured"
+    }
+  }
+}

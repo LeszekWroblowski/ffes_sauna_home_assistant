@@ -1,3 +1,5 @@
+[![GitHub release](https://img.shields.io/github/release/LeszekWroblowski/ffes_sauna_home_assistant.svg)](https://github.com/LeszekWroblowski/ffes_sauna_home_assistant/releases)
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/custom-components/hacs)
 # FFES Sauna Integration for Home Assistant
 
 Custom integration for FFES Sauna controllers with full control and monitoring capabilities.
